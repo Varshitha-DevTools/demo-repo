@@ -1,0 +1,18 @@
+[0218/114848.263:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0218/155605.875:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0218/164955.397:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0224/112254.385:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0224/112512.224:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0224/123957.400:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0224/125059.972:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0304/100008.775:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0304/110456.394:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0305/111104.232:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0305/144851.254:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0305/145548.889:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[33300:30144:0310/145256.976:VERBOSE1:chrome\updater\win\installer\installer.cc:495] "C:\Users\Varshitha\Downloads\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={D0F5FDD3-C89B-6076-BA38-FC19340FAAB4}&lang=en-GB&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2 "C:\Users\Varshitha\Downloads\Jenkins migration doc.docx"
+[33300:30144:0310/145303.733:VERBOSE1:chrome\updater\win\installer\installer.cc:612] Metainstaller WMain returning: 3
+[0327/162043.612:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0330/103355.265:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0330/153533.393:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
+[0331/113353.640:WARNING:resource_bundle_qt.cpp(83)] locale_file_path.empty() for locale 
